@@ -3,6 +3,6 @@ The 1st
 
 My name is...well that doesnt matter much. 
 
-I am a student studying computer engineering here to better understand how programming works. I plan on creating projects and learn new things as well. I havent explored the entirety of GitHub yet but am excited to do so.
+I am learning how to program on my own time throught the OSSC computer science course here in Github. Over the next two years i want to gain a better understanding about computer science and how coding can aid in my personal life. I also aspire to get my coding to a level where it is marketable. 
 
 Cheers!
